@@ -1,0 +1,2848 @@
+{
+ "updated": "09/11/2026",
+ "canaux": [
+  {
+   "quand": "Dès la sortie",
+   "nom": "Compte Rushly (TikTok, Instagram)",
+   "txt": "Du contenu viral, 1 vidéo par jour : avant/après, un rush en 5 styles, questions-réponses."
+  },
+  {
+   "quand": "Dès la sortie",
+   "nom": "Mot-clé en commentaire",
+   "txt": "« Commente MONTAGE » envoie automatiquement le lien de la webapp en message privé."
+  },
+  {
+   "quand": "Dès la sortie",
+   "nom": "SEO",
+   "txt": "Des pages sur ce que cherchent les créateurs face cam. Lent, mais l'effet se cumule."
+  },
+  {
+   "quand": "Après le 1er winner",
+   "nom": "Clipping",
+   "txt": "Des clippers reprennent tes vidéos qui marchent et les republient en variantes sur leurs comptes, via Whop."
+  },
+  {
+   "quand": "Après le 1er winner",
+   "nom": "Créateurs payés à la vue",
+   "txt": "Leur donner le format gagnant (UGC, Whop). Payer moins par vue que ce qu'une vue te rapporte. Pas besoin de lien en bio sur leurs comptes : les gens cherchent « Rushly »."
+  },
+  {
+   "quand": "Après le 1er winner",
+   "nom": "Affiliation",
+   "txt": "Les créateurs qui recommandent Rushly touchent 25 % à vie, avec un bonus sur le 1er mois."
+  },
+  {
+   "quand": "Après 50 k€ de MRR",
+   "nom": "Ads",
+   "txt": "Tester les ads en reprenant les vidéos qui ont déjà percé en organique. Moins de 5 % de l'acquisition."
+  }
+ ],
+ "tests": [
+  {
+   "titre": "Lister 10 formats validés",
+   "hyp": "Les formats déjà prouvés chez des créateurs face cam percent plus vite que des idées neuves.",
+   "action": "2 h de recherche chez des créateurs face cam US et FR : leurs vidéos très au-dessus de leur moyenne, et les formats qui reviennent.",
+   "succes": "10 formats qui ont marché au moins 3 fois",
+   "echec": "Moins de 5 : élargir aux formats US",
+   "duree": "Cette semaine",
+   "statut": "À lancer"
+  },
+  {
+   "titre": "Question-réponse",
+   "hyp": "Le question-réponse est le format qui a le meilleur ratio temps / vues pour démarrer.",
+   "action": "Tourner 20 questions-réponses en une session pour le compte Rushly, Rushly présenté comme une étape du process.",
+   "succes": "1 vidéo très au-dessus de la moyenne du compte, puis 10 variantes",
+   "echec": "0 winner : changer les hooks, garder le format",
+   "duree": "10 jours après la sortie",
+   "statut": "À lancer"
+  }
+ ],
+ "formats": [
+  {
+   "nom": "Question-réponse",
+   "desc": "Quelqu'un pose une question, l'autre répond sans script. D'après Robin, le meilleur ratio temps / vues pour démarrer.",
+   "statut": "Robin"
+  },
+  {
+   "nom": "Carrousel TikTok",
+   "desc": "Une suite d'images. Forte demande, presque personne n'en fait.",
+   "statut": "Robin"
+  },
+  {
+   "nom": "Réaction + valeur",
+   "desc": "Réagir à une vidéo déjà virale de la niche et ajouter de la valeur : on récupère son hook.",
+   "statut": "Robin"
+  },
+  {
+   "nom": "Tier list",
+   "desc": "Format universel qui marche dans toutes les niches, le produit se place facilement dedans.",
+   "statut": "Robin"
+  },
+  {
+   "nom": "Flow du logiciel filmé au téléphone",
+   "desc": "On filme le produit et son mécanisme avec un téléphone, plus un hook.",
+   "statut": "Léo"
+  },
+  {
+   "nom": "Duo",
+   "desc": "Une personne en filme une autre qui utilise l'app.",
+   "statut": "Léo"
+  },
+  {
+   "nom": "Talking head",
+   "desc": "Storytelling face caméra. Le format qui convertit le mieux, selon lui.",
+   "statut": "Léo"
+  },
+  {
+   "nom": "Green screen sur l'actu",
+   "desc": "Un sujet d'actualité en fond.",
+   "statut": "Léo"
+  },
+  {
+   "nom": "Défi documenté",
+   "desc": "Un objectif chiffré suivi jour par jour, l'outil apparaît comme ce qu'on utilise.",
+   "statut": "Léo"
+  }
+ ],
+ "hooks": [],
+ "createurs": [
+  {
+   "id": "robin-dormion",
+   "nom": "Robin Dormion",
+   "sous": "Fondateur de l'app Blowup · contenu viral pour apps et SaaS",
+   "avatar": "robin.jpg",
+   "chaine": "https://www.youtube.com/@RobinDormion31",
+   "videos": [
+    {
+     "titre": "Comment je fais 400 millions de vues par mois pour mon app",
+     "duree": "29 min",
+     "id": "wQnBj8u15Es",
+     "verdict": "ok",
+     "key": "Trouve des formats prouvés avant de poster plus, et montre Rushly comme une étape du process.",
+     "points": [
+      [
+       "ok",
+       "Le format bat le volume.",
+       "80 % de leurs vues viennent de 10 créateurs sur des formats prouvés.",
+       "Trouve tes formats avant de poster plus.",
+       0
+      ],
+      [
+       "ok",
+       "Un format est validé quand il a marché 3 fois",
+       "sur les 90 derniers jours. Un hit isolé ne compte pas.",
+       "",
+       575
+      ],
+      [
+       "ok",
+       "Likes au-dessus de 2 % des vues = organique.",
+       "En dessous, la vidéo a souvent été boostée en ads.",
+       "",
+       1195
+      ],
+      [
+       "ok",
+       "Chercher sur 3 couches :",
+       "concurrents, niche, formats universels.",
+       "Chercher chez des créateurs face cam US et FR plutôt que chez les concurrents.",
+       479
+      ],
+      [
+       "ok",
+       "Le produit est une étape du process montré,",
+       "jamais une pub.",
+       "« Étape 2 : je dépose mon rush sur Rushly et je choisis le style Éditorial. »",
+       767
+      ],
+      [
+       "ok",
+       "Un produit visuel qui fait « waouh » à l'écran.",
+       "",
+       "Le passage du rush brut au rendu stylé doit claquer à l'écran.",
+       336
+      ],
+      [
+       "warn",
+       "Positionnement en 5 mots, plus une polémique.",
+       "",
+       "« Le rendu d'un monteur, sans monteur ». Polémique à tester sur 2 vidéos : « Payer un monteur en 2026 ? ».",
+       239
+      ],
+      [
+       "ok",
+       "Chaque semaine, chercher des variantes de ses winners,",
+       "souvent juste un nouveau hook.",
+       "",
+       1484
+      ]
+     ]
+    },
+    {
+     "titre": "Comment créer une stratégie de contenu pour ton business en 2026",
+     "duree": "30 min",
+     "id": "LCPapr3UHic",
+     "verdict": "ok",
+     "key": "Hook à contre-pied, format question-réponse, et chaque winner se refait 25 à 50 fois.",
+     "points": [
+      [
+       "ok",
+       "Un outlier = très au-dessus de la moyenne du créateur,",
+       "pas juste beaucoup de vues.",
+       "",
+       478
+      ],
+      [
+       "ok",
+       "Hook = ce que la cible n'a pas l'habitude d'entendre,",
+       "puis le justifier.",
+       "« Si tu postes tes face cam sans montage, voilà ce que tu perds. »",
+       141
+      ],
+      [
+       "ok",
+       "Varier les mots-clés, chercher en anglais,",
+       "et sur X avec la recherche avancée (minimum de likes).",
+       "",
+       335
+      ],
+      [
+       "ok",
+       "Le question-réponse, meilleur format pour démarrer.",
+       "D'après lui, il a fait passer Blowup de 0 à 25 k€/mois.",
+       "20 vidéos tournées d'un coup pour le compte Rushly.",
+       816
+      ],
+      [
+       "ok",
+       "Carrousel TikTok :",
+       "forte demande, presque personne n'en fait.",
+       "« Le même rush en 5 styles » ou « 5 outils pour monter tes face cam ».",
+       910
+      ],
+      [
+       "ok",
+       "1 vidéo par jour au début, faite le jour même",
+       "plutôt que 20 d'un coup, pour ajuster selon ce qui a marché la veille.",
+       "",
+       1337
+      ],
+      [
+       "ok",
+       "Un winner se refait 25 à 50 fois,",
+       "avec des variantes.",
+       "Dès qu'une vidéo perce nettement au-dessus de la moyenne : 10 variantes de hook.",
+       1479
+      ],
+      [
+       "warn",
+       "Créateurs payés 1 $ les 1 000 vues.",
+       "100 000 vues : 100 $ payés, environ 500 € encaissés.",
+       "Seulement avec un winner et ton RPM mesuré.",
+       1620
+      ]
+     ]
+    },
+    {
+     "titre": "Comment créer une entreprise à 3 M€ grâce à TikTok",
+     "duree": "40 min · avec le fondateur de Remakeit",
+     "id": "QHknYmt0Zsw",
+     "verdict": "ok",
+     "key": "70 % de reprises, 30 % de tests. Le plafond se casse par la conversion, pas par les vues.",
+     "points": [
+      [
+       "ok",
+       "70 % de vidéos qui refont ce qui a marché, 30 % de tests.",
+       "",
+       "Sur tes 3 vidéos par jour, 2 reprennent un format prouvé.",
+       811
+      ],
+      [
+       "ok",
+       "Jamais de pub :",
+       "le produit est le moyen d'aller d'un point A à un point B.",
+       "",
+       574
+      ],
+      [
+       "bad",
+       "Les ads, uniquement sur des vidéos qui ont percé en organique.",
+       "",
+       "Booster tes 2 ou 3 meilleures vidéos, pas des créas froides.",
+       669
+      ],
+      [
+       "ok",
+       "Bloqué 5 mois à 60 k€ de MRR malgré 2 fois plus de vues.",
+       "Débloqué par des tests de prix et de paywall : 150 k€ en 2 mois et demi, selon lui.",
+       "Teste le paywall : avant ou après la 1re vidéo générée.",
+       1435
+      ],
+      [
+       "warn",
+       "Clipping via la marketplace Whop,",
+       "influenceurs payés au RPM.",
+       "Cohérent avec Whop Content Rewards, mais après un winner.",
+       526
+      ],
+      [
+       "ok",
+       "Copier sans adapter = échec.",
+       "",
+       "",
+       2005
+      ],
+      [
+       "ok",
+       "Prendre ce qui marche aux US",
+       "et ajouter sa touche française.",
+       "",
+       1766
+      ]
+     ]
+    },
+    {
+     "titre": "Le marché est saturé donc je leak ma formation à 5 000 €",
+     "duree": "7 h 19 · lue en ciblant l'acquisition",
+     "id": "aKr-s1r0msg",
+     "verdict": "warn",
+     "key": "Commentaire mot-clé puis message privé automatique. Le reste vise surtout le coaching à gros ticket.",
+     "points": [
+      [
+       "ok",
+       "Refaire à 95 % ne suffit pas :",
+       "ce sont les 5 % manquants (souvent le hook visuel) qui rendent viral.",
+       "",
+       5636
+      ],
+      [
+       "ok",
+       "Un mauvais hook tue la rétention,",
+       "quoi qu'il y ait derrière.",
+       "",
+       8778
+      ],
+      [
+       "ok",
+       "Commentaire mot-clé, puis message privé automatique",
+       "(ManyChat) avec la ressource.",
+       "« Commente MONTAGE » : lien de la webapp et vidéo d'exemple. Sous chaque face cam, on demande « tu montes avec quoi ? ».",
+       19028
+      ],
+      [
+       "ok",
+       "La ressource offerte prolonge le sujet de la vidéo",
+       "et finit par un appel à l'action.",
+       "",
+       16269
+      ],
+      [
+       "warn",
+       "Stories et lives pour convertir les abonnés.",
+       "",
+       "Plus tard. Un live « je monte ta vidéo en direct » est possible.",
+       18883
+      ],
+      [
+       "bad",
+       "Qualification par budget et appels de vente.",
+       "",
+       "Pensé pour du coaching à 2 000 € et plus, inutile à 17 €.",
+       21324
+      ]
+     ]
+    },
+    {
+     "titre": "Comment créer une personal brand rentable en 2025",
+     "duree": "36 min",
+     "id": "NERMtIf3tss",
+     "verdict": "ok",
+     "key": "Un avatar ultra précis et une méthode qui différencie, dite à contre-pied de la niche.",
+     "points": [
+      [
+       "ok",
+       "Pas de vues = ce n'est pas l'algorithme.",
+       "Soit la cible est mauvaise, soit le contenu ne l'intéresse pas.",
+       "",
+       140
+      ],
+      [
+       "ok",
+       "Un avatar ultra précis, une seule personne.",
+       "",
+       "« Sarah, 29 ans, coach, filme 3 face cam par semaine, n'a pas le temps de monter. »",
+       1776
+      ],
+      [
+       "ok",
+       "Un compte TikTok neuf où tu ne likes que la niche :",
+       "tu vois le feed de ta cible.",
+       "",
+       478
+      ],
+      [
+       "ok",
+       "Le hook à contre-pied",
+       "de celui que toute la niche utilise.",
+       "",
+       1532
+      ],
+      [
+       "ok",
+       "Une méthode qui différencie :",
+       "un élément précis que personne ne met en avant.",
+       "Mettre en avant les styles (Éditorial, Prism…) plutôt que « montage IA ».",
+       1582
+      ],
+      [
+       "ok",
+       "Parler sans lire de script :",
+       "hook, 3 points, conclusion, le reste en improvisé.",
+       "",
+       1242
+      ]
+     ]
+    }
+   ],
+   "synthese": [
+    {
+     "theme": "Trouver les formats",
+     "idees": [
+      [
+       "ok",
+       "Le format compte plus que le volume",
+       "80 % de leurs vues viennent de 10 créateurs sur des formats prouvés.",
+       "",
+       [
+        [
+         "wQnBj8u15Es",
+         0
+        ],
+        [
+         "wQnBj8u15Es",
+         47
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Un format est validé quand il perce plusieurs fois",
+       "Au moins 3 fois à plus de 100 000 vues, sur les 90 derniers jours. Une vidéo virale est très au-dessus de la moyenne du créateur.",
+       "",
+       [
+        [
+         "wQnBj8u15Es",
+         575
+        ],
+        [
+         "wQnBj8u15Es",
+         863
+        ],
+        [
+         "LCPapr3UHic",
+         478
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Repérer les vidéos boostées",
+       "Likes au-dessus de 2 % des vues = organique. En dessous, souvent poussée en ads.",
+       "",
+       [
+        [
+         "wQnBj8u15Es",
+         1195
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Chercher large",
+       "Plusieurs couches (concurrents, niche, formats universels), plusieurs mots-clés, en anglais, sur X avec un minimum de likes, et dans les autres pays.",
+       "Créateurs face cam US et FR.",
+       [
+        [
+         "wQnBj8u15Es",
+         479
+        ],
+        [
+         "LCPapr3UHic",
+         335
+        ],
+        [
+         "QHknYmt0Zsw",
+         1766
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Un avatar précis et un compte neuf",
+       "Une seule personne en tête. Un compte TikTok neuf où on ne like que la niche montre le feed de la cible.",
+       "",
+       [
+        [
+         "NERMtIf3tss",
+         1776
+        ],
+        [
+         "NERMtIf3tss",
+         478
+        ],
+        [
+         "LCPapr3UHic",
+         94
+        ]
+       ]
+      ]
+     ]
+    },
+    {
+     "theme": "Faire le contenu",
+     "idees": [
+      [
+       "ok",
+       "Le produit est une étape, jamais une pub",
+       "On montre une méthode en étapes, le produit est l'une d'elles.",
+       "Rushly montré comme l'étape du montage.",
+       [
+        [
+         "wQnBj8u15Es",
+         767
+        ],
+        [
+         "LCPapr3UHic",
+         1100
+        ],
+        [
+         "LCPapr3UHic",
+         1241
+        ],
+        [
+         "QHknYmt0Zsw",
+         574
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Le hook à contre-pied",
+       "Dire ce que la cible n'a pas l'habitude d'entendre, puis le justifier.",
+       "",
+       [
+        [
+         "LCPapr3UHic",
+         141
+        ],
+        [
+         "NERMtIf3tss",
+         382
+        ],
+        [
+         "NERMtIf3tss",
+         1532
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Copier ne suffit pas",
+       "Les 5 % qu'on oublie, souvent le hook visuel, sont ce qui rendait la vidéo virale. Un mauvais hook tue la rétention.",
+       "",
+       [
+        [
+         "aKr-s1r0msg",
+         5636
+        ],
+        [
+         "aKr-s1r0msg",
+         8778
+        ],
+        [
+         "QHknYmt0Zsw",
+         2005
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Question-réponse et carrousel",
+       "Le question-réponse a le meilleur ratio temps / vues pour démarrer. Le carrousel TikTok : forte demande, peu d'offre.",
+       "",
+       [
+        [
+         "LCPapr3UHic",
+         816
+        ],
+        [
+         "LCPapr3UHic",
+         910
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Un produit qui fait « waouh » à l'écran",
+       "L'animation ou l'interface est virale en elle-même.",
+       "Le passage du rush brut au rendu doit claquer.",
+       [
+        [
+         "wQnBj8u15Es",
+         336
+        ]
+       ]
+      ],
+      [
+       "warn",
+       "Positionnement en 5 mots, plus une polémique",
+       "",
+       "« Le rendu d'un monteur, sans monteur. »",
+       [
+        [
+         "wQnBj8u15Es",
+         239
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Une méthode qui différencie",
+       "Mettre en avant un élément précis que personne ne met en avant.",
+       "Les styles plutôt que « montage IA ».",
+       [
+        [
+         "NERMtIf3tss",
+         1582
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Parler sans lire de script",
+       "Hook, 3 points, conclusion, le reste en improvisé.",
+       "",
+       [
+        [
+         "NERMtIf3tss",
+         1242
+        ]
+       ]
+      ]
+     ]
+    },
+    {
+     "theme": "Le rythme",
+     "idees": [
+      [
+       "ok",
+       "1 vidéo par jour, faite le jour même",
+       "Pour ajuster selon ce qui a marché la veille.",
+       "",
+       [
+        [
+         "LCPapr3UHic",
+         1337
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "70 % de reprises, 30 % de tests",
+       "",
+       "",
+       [
+        [
+         "QHknYmt0Zsw",
+         811
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Un winner se refait des dizaines de fois",
+       "25 à 50 fois, avec des variantes. Chaque semaine, chercher de nouvelles variantes des formats gagnants.",
+       "",
+       [
+        [
+         "LCPapr3UHic",
+         1479
+        ],
+        [
+         "wQnBj8u15Es",
+         1484
+        ]
+       ]
+      ]
+     ]
+    },
+    {
+     "theme": "Convertir et amplifier",
+     "idees": [
+      [
+       "ok",
+       "Mot-clé en commentaire, message privé automatique",
+       "La ressource envoyée prolonge le sujet de la vidéo et finit par un appel à l'action.",
+       "Le lead magnet de Rushly.",
+       [
+        [
+         "aKr-s1r0msg",
+         19028
+        ],
+        [
+         "aKr-s1r0msg",
+         16269
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Le plafond se casse par la conversion",
+       "Remakeit a doublé ses vues sans croître pendant 5 mois. Débloqué par des tests de prix et de paywall.",
+       "",
+       [
+        [
+         "QHknYmt0Zsw",
+         1435
+        ],
+        [
+         "QHknYmt0Zsw",
+         1483
+        ]
+       ]
+      ],
+      [
+       "warn",
+       "Créateurs et clippers payés à la vue",
+       "1 $ les 1 000 vues chez Robin. Clipping via Whop, influenceurs au RPM.",
+       "Après un winner et un RPM mesuré.",
+       [
+        [
+         "LCPapr3UHic",
+         1620
+        ],
+        [
+         "QHknYmt0Zsw",
+         526
+        ]
+       ]
+      ],
+      [
+       "warn",
+       "Stories et lives",
+       "Pour convertir les abonnés une fois qu'il y en a.",
+       "Plus tard.",
+       [
+        [
+         "aKr-s1r0msg",
+         18883
+        ]
+       ]
+      ]
+     ]
+    }
+   ],
+   "top": [
+    [
+     "Le format compte plus que le volume",
+     "80 % de leurs vues viennent de 10 créateurs sur des formats prouvés."
+    ],
+    [
+     "Un format est validé quand il perce plusieurs fois",
+     "Au moins 3 fois à plus de 100 000 vues, sur les 90 derniers jours."
+    ],
+    [
+     "Le produit est une étape, jamais une pub",
+     "On montre une méthode, le produit est l'une des étapes."
+    ],
+    [
+     "Le hook à contre-pied",
+     "Dire ce que la cible n'a pas l'habitude d'entendre, puis le justifier."
+    ],
+    [
+     "Un winner se refait des dizaines de fois",
+     "25 à 50 fois, avec des variantes de hook."
+    ],
+    [
+     "Mot-clé en commentaire, message privé automatique",
+     "La ressource envoyée prolonge la vidéo et finit par un appel à l'action."
+    ],
+    [
+     "Le plafond se casse par la conversion",
+     "Quand ça stagne, on teste les prix et le paywall, pas plus de vues."
+    ]
+   ]
+  },
+  {
+   "id": "leo-grindarss",
+   "nom": "Léo Grindarss",
+   "sous": "Fondateur de Remakeit et de LPS Studio · acquisition SaaS",
+   "avatar": "leo.jpg",
+   "chaine": "https://www.youtube.com/@grindarss",
+   "videos": [
+    {
+     "titre": "Je fais passer ce SaaS de 20k€ à 100k€/mois (stratégie complète)",
+     "duree": "25 min",
+     "id": "rsagc4FzbGs",
+     "verdict": "ok",
+     "ajoute": "09/11/2026",
+     "key": "Il audite un SaaS bloqué à 20 k$ par mois : des formats qui font des vues sans ventes, trop d'écrans offerts avant de payer, un paywall qui ne pousse pas l'annuel.",
+     "points": [
+      [
+       "ok",
+       "Jamais l'expert qui paye",
+       "C'est celui qui ne sait pas faire et veut le résultat. Sleek vise les gens qui codent avec l'IA, pas les designers.",
+       "Viser les créateurs face cam qui ne savent pas monter, pas les monteurs.",
+       280
+      ],
+      [
+       "ok",
+       "Premier écran : le résultat dans le titre, un CTA où on essaie",
+       "85 à 90 % des gens ne descendent pas plus bas, selon lui. Sur Sleek, tu tapes ton idée directement sur la page.",
+       "Tester : déposer son rush dès le premier écran.",
+       200
+      ],
+      [
+       "ok",
+       "Pas de « où nous as-tu connus ? » avant le paiement",
+       "Cette question sert tes stats, pas l'utilisateur. Elle ajoute une friction : à poser après le paiement.",
+       "",
+       360
+      ],
+      [
+       "ok",
+       "Séparer les frictions",
+       "Inscription, puis des questions qui donnent l'impression de personnaliser, puis le paywall. Jamais inscription et paywall à la suite. Un client est monté à 140 k€ en un mois avec ce changement, selon lui.",
+       "",
+       520
+      ],
+      [
+       "ok",
+       "Un aperçu flouté, pas trois écrans offerts",
+       "Avec trois écrans sur quatre gratuits, tu as déjà presque tout. Et chaque inscrit gratuit coûte une génération : 1 000 inscrits à 10 centimes = 100 € perdus.",
+       "Chaque montage gratuit coûte : montrer un aperçu partiel avant de payer.",
+       400
+      ],
+      [
+       "ok",
+       "L'annuel en premier",
+       "Sleek mettait l'annuel en avant en juillet, puis le mensuel en octobre, et les revenus ont baissé. L'annuel = la LTV encaissée dès le jour 1.",
+       "",
+       800
+      ],
+      [
+       "ok",
+       "Une option à cocher au paiement",
+       "Chez eux et leurs clients, ça ajoute 25 % de revenus à chaque fois, selon lui.",
+       "",
+       700
+      ],
+      [
+       "ok",
+       "Une offre quand il quitte le paywall",
+       "Une réduction calée sur l'annuel pour rattraper celui qui part.",
+       "",
+       840
+      ],
+      [
+       "ok",
+       "Des vues sans commentaires sur l'outil = pas de ventes",
+       "Si les commentaires ne parlent pas du SaaS, la vidéo fait des vues mais ne convertit pas.",
+       "Vérifier que les commentaires des vidéos Rushly parlent de Rushly.",
+       980
+      ],
+      [
+       "ok",
+       "Les listes « 5 apps que j'utilise » ne vendent pas",
+       "Le carrousel convertit le moins. Ton outil, le moins connu de la liste, passe inaperçu. Si carrousel, ta slide doit être la plus forte.",
+       "Pas de carrousel « 5 outils » où Rushly est noyé.",
+       1000
+      ],
+      [
+       "ok",
+       "Le trafic d'abord",
+       "Sans trafic, pas de taux de conversion ni de test A/B : c'est le trafic qui te dit quoi réparer.",
+       "",
+       1280
+      ],
+      [
+       "ok",
+       "x2 à chaque étape se multiplie",
+       "x2 sur le parcours et x2 sur le paywall = x4 avec le même trafic.",
+       "",
+       1500
+      ]
+     ]
+    },
+    {
+     "titre": "Tu ne croiras jamais que ces SaaS font de l'argent",
+     "duree": "25 min",
+     "id": "LHrGMzokzvk",
+     "verdict": "warn",
+     "ajoute": "02/11/2026",
+     "key": "Revue de 5 apps qui font 7 à 60 k$/mois. Pour Rushly : un onboarding qui va jusqu'au paywall, un format qui montre le résultat et se duplique sur plein de créateurs, une raison de rester visible dans la vidéo.",
+     "points": [
+      [
+       "ok",
+       "Les 3 choses qui font marcher une app",
+       "Un onboarding qui joue sur l'émotion, un format qui montre le résultat et se duplique sur plein de créateurs, une raison de tester montrée dans la vidéo.",
+       "Les trois s'appliquent à Rushly.",
+       1408
+      ],
+      [
+       "ok",
+       "Vue = argent : x10 créateurs, x10 MRR",
+       "No Contact a trouvé son format, il manque le volume : 240 000 vues en 30 jours. Avec 10 fois plus de créateurs, 2,4 M de vues et 10 fois le MRR, selon lui.",
+       "Une fois le format Rushly validé, le levier c'est le nombre de créateurs.",
+       321
+      ],
+      [
+       "ok",
+       "Comptes dédiés : les vues, pas les followers",
+       "Les créateurs postent sur un compte dédié à la niche, pas sur leur compte perso. Un compte parti de zéro à 2 000 followers suffit, seules les vues comptent.",
+       "Argument pour recruter des créateurs sans qu'ils touchent à leur compte perso.",
+       276
+      ],
+      [
+       "ok",
+       "L'app n'est jamais le sujet",
+       "Le sujet c'est l'histoire (rupture, taille), l'app arrive comme la solution, en description ou en commentaire.",
+       "La vidéo raconte le problème, Rushly arrive comme ce qui l'a réglé.",
+       276
+      ],
+      [
+       "ok",
+       "Un mécanisme viral à l'écran",
+       "Un truc qui se comprend en une seconde : le scan qui affiche le prix, le téléphone qui fait le meneur, le compteur de jours. Le format doit être très visuel.",
+       "Trouver le moment visuel de Rushly qui se comprend sans explication.",
+       867
+      ],
+      [
+       "ok",
+       "Changer le hook, pas l'idée",
+       "App loup-garou : la moitié de 32 vidéos sous 1 800 vues. Le hook doit poser une tension dès la 1re seconde, pas une installation.",
+       "Une vidéo qui ne prend pas : on retourne le hook avant de jeter le format.",
+       1092
+      ],
+      [
+       "ok",
+       "Onboarding : plus de 90 % jusqu'au paywall",
+       "Un quiz long et immersif qui donne confiance, comme un médecin qui pose plein de questions. Gotall : 91 % des téléchargements voient le paywall.",
+       "Mesurer la part des inscrits Rushly qui arrivent au paywall.",
+       502
+      ],
+      [
+       "ok",
+       "Payer pour un suivi, pas pour un chiffre",
+       "Après le paiement : un plan, un compteur, un portefeuille qui évoluent. C'est ce qui rend l'abonnement logique et garde les gens.",
+       "Ce qui fait revenir sur Rushly doit se voir dans les vidéos.",
+       593
+      ],
+      [
+       "ok",
+       "Pousser l'annuel",
+       "Récupérer la LTV dès le jour 1 donne plus de marge pour l'acquisition. Sur une app d'ados, on ne reste pas abonné longtemps.",
+       "Rushly a déjà l'annuel (17 € au lieu de 24 €) : le mettre en avant.",
+       730
+      ],
+      [
+       "ok",
+       "Garder les créateurs actifs",
+       "Recrutement, onboarding, management et rétention des créateurs. LPS Studio utilise revclip.io : notifications pour poster et à chaque gain.",
+       "Pour la phase créateurs.",
+       366
+      ],
+      [
+       "warn",
+       "Récompenser les utilisateurs qui postent",
+       "Poke Item donne des points selon les vues des vidéos de ses utilisateurs, échangeables contre des lots. Concours dans la communauté.",
+       "À adapter : les utilisateurs Rushly publient déjà depuis l'app.",
+       912
+      ],
+      [
+       "warn",
+       "Pas de plan gratuit, selon lui",
+       "Poke Item donne 20 scans gratuits par mois, lui n'en mettrait jamais : prix flouté, payer pour débloquer.",
+       "Rushly montre le résultat avec filigrane : même logique.",
+       912
+      ]
+     ]
+    },
+    {
+     "titre": "Si tu ne comprends pas l'acquisition, oublie les SaaS",
+     "duree": "13 min",
+     "id": "XEq7F-QLslA",
+     "verdict": "ok",
+     "key": "Pilote Rushly au RPM (revenu pour 1000 vues) : perce d'abord seul sur le compte de marque, mesure ton RPM sur 500 000 vues minimum, puis multiplie les créateurs à un CPM plus bas que ce RPM.",
+     "points": [
+      [
+       "ok",
+       "Vue = argent, le RPM est la seule métrique",
+       "RPM = cash encaissé / vues totales x 1000. Un SaaS sain fait 2 à 5 € de RPM day one, 25 à 40 € sur la LTV, selon lui.",
+       "Calcule le RPM Rushly chaque mois. À 3 € de RPM, 10 000 € de MRR nouveau = environ 3,3 M de vues/mois.",
+       190
+      ],
+      [
+       "ok",
+       "Payer les créateurs sous ton RPM",
+       "Indexer tout sur la perf : paiement à la vue, par palier ou à l'affiliation, avec un CPM inférieur au RPM.",
+       "Fixe le barème Whop Content Rewards à partir du RPM mesuré (ex : RPM 3 € = CPM max 1,5 €).",
+       238
+      ],
+      [
+       "ok",
+       "Perce seul avant de recruter",
+       "Ne prends pas de créateurs tant que ton propre compte n'a pas généré 3 à 5 000 € ; 25 000 vues ne veulent rien dire, il faut 500 000 à 1 M de vues pour un RPM fiable.",
+       "Compte de marque Rushly d'abord ; UGC seulement quand le format gagnant a fait 3 000 € de CA.",
+       478
+      ],
+      [
+       "ok",
+       "Plus de créateurs, pas plus de budget",
+       "Un bon créateur fait environ 1 M de vues avant d'arrêter ; 10 créateurs quotidiens = 10 M vues/mois = 30 à 50 k€ de CA day one, selon lui.",
+       "Vise une armée de petits créateurs face caméra plutôt que des gros influenceurs.",
+       96
+      ],
+      [
+       "ok",
+       "Créateurs qui ressemblent à la cible",
+       "Exemple Been.app : RPM de 3 € car créatrices esthétiques hors cible. Il a créé VisiFoot pour des créateurs foot.",
+       "Recrute des créateurs qui sont eux-mêmes des créateurs face caméra qui ne montent pas : coachs, formateurs, entrepreneurs.",
+       334
+      ],
+      [
+       "ok",
+       "Un rush viral, 10 montages",
+       "Un rush brut qui a percé, monté par 10 personnes différentes, donne 10 vidéos virales ; avec swap de personnage IA, à l'infini. 277 k vues dupliquées en 15 M au total, selon lui.",
+       "C'est littéralement le produit : montre un même rush monté en 5 styles Rushly (Éditorial, Prism, Motion…). Construis une banque de rushs viraux à recycler.",
+       668
+      ],
+      [
+       "ok",
+       "Pas de concurrent = alarme",
+       "Test : tape ta niche + « app » ou « logiciel » sur TikTok ; des vidéos virales de concurrents = marché validé.",
+       "Cherche « montage vidéo app » sur TikTok FR : des vidéos virales sur le sujet prouvent que le marché existe.",
+       574
+      ],
+      [
+       "warn",
+       "Ne jamais reposter à l'identique",
+       "Une vidéo repostée telle quelle se fait shadowban selon lui ; il faut un nouveau montage.",
+       "Pour recycler les hits Rushly, remonte le rush avec un autre style plutôt que reposter.",
+       622
+      ]
+     ]
+    },
+    {
+     "titre": "Malheureusement, l'acquisition SaaS est vraiment simple",
+     "duree": "18 min",
+     "id": "dBoDDcCpZ_8",
+     "verdict": "ok",
+     "key": "Viralité = 60 % hook, 30 % rétention, 10 % montage : garde un format qui marche, teste des dizaines de hooks dessus, et ne parle jamais de Rushly comme sujet, seulement comme moyen.",
+     "points": [
+      [
+       "ok",
+       "Hook 60 %, rétention 30 %, montage 10 %",
+       "Le hook (3 premières secondes) pèse le plus ; on n'innove pas sur le format, on innove sur le hook.",
+       "Fige 1 ou 2 formats sur le compte Rushly et décline 10 hooks différents par format avant d'en changer.",
+       0
+      ],
+      [
+       "ok",
+       "10 jours de test, 1 vidéo par jour",
+       "Chauffe le compte 3 jours puis 1 vidéo/jour pour établir ton RPM ; 1 M de vues = environ 5 000 € de MRR en moyenne (3 à 10 k€ selon le SaaS), selon lui.",
+       "Lance le compte de marque Rushly avec 10 jours de test à 1 vidéo/jour dès la sortie, avant tout recrutement UGC.",
+       46
+      ],
+      [
+       "ok",
+       "Le SaaS est un moyen, pas le sujet",
+       "Ne fais jamais une vidéo qui parle de l'app ; parle d'un sujet tendance (ex : le clipping explose) et place l'outil dans le process. En France, ce qui sonne vente ne vend pas.",
+       "Sujet : « comment je poste 5 Reels par semaine sans monter » ou « un jour dans la vie d'un coach qui poste tous les jours » ; Rushly apparaît dans le process.",
+       237
+      ],
+      [
+       "ok",
+       "Format 1 : le flow du software",
+       "Filme ton produit et son mécanisme viral avec un téléphone, ajoute un hook. Même un MVP doit pouvoir percer avec ça.",
+       "Filme l'écran : dépôt du rush brut, choix du style, vidéo montée qui sort. Hook : « J'ai filmé ça en 2 min, regarde ce que ça donne ».",
+       284
+      ],
+      [
+       "ok",
+       "Formats 2 à 4 : duo, talking head, green screen",
+       "Duo : quelqu'un filme une autre personne qui utilise l'app, hook type snap (« il a trouvé un glitch »). Talking head : storytelling face cam, convertit le plus. Green screen : sujet d'actu en fond. Il annonce 5 formats mais n'en détaille que 4.",
+       "Duo : « mon pote vient de monter sa vidéo en 30 secondes ». Green screen sur une actu créateurs (changement d'algo TikTok, monétisation).",
+       332
+      ],
+      [
+       "ok",
+       "3 règles d'exécution",
+       "Filme l'écran avec un autre appareil (jamais d'enregistrement d'écran direct), produit visible avant la 20e seconde, nom du produit jamais dans le texte, le titre ni la description (commentaires ou visuel seulement).",
+       "Montre l'interface Rushly avant 20 s ; mets le lien en commentaire épinglé, pas dans la légende.",
+       380
+      ],
+      [
+       "ok",
+       "Surfer sur l'actu et sourcer aux US",
+       "Chaque événement est un angle (Remakeit a surfé sur la Coupe du monde). Raccourci : copier un format US et l'adapter en français.",
+       "Veille hebdo des formats de créateurs face cam US ; adapte les meilleurs en FR pour Rushly.",
+       141
+      ],
+      [
+       "ok",
+       "Payer à la perf",
+       "90 % de leur acquisition vient de systèmes à la performance ; recrute des humains qui exécutent ta stratégie, pas des influenceurs.",
+       "Whop Content Rewards et affiliation 25 % collent avec cette logique.",
+       569
+      ]
+     ]
+    },
+    {
+     "titre": "J'ai classé les 9 canaux d'acquisition d'un SaaS (tier list)",
+     "duree": "15 min",
+     "id": "yYMwsA7HBHQ",
+     "verdict": "ok",
+     "key": "Au lancement, concentre Rushly sur le clipping et les créateurs (tier S) et l'affiliation (tier A). Le reste vient plus tard.",
+     "points": [
+      [
+       "ok",
+       "Tier S : clipping",
+       "Clips courts taillés dans du contenu long, postés par des clippers sur leurs comptes avec des montages différents. Portée énorme pour un coût de prod quasi nul, mais audience froide et pas de contrôle des commentaires.",
+       "Tourne 1 h de live ou podcast « je teste Rushly sur 20 rushs » et fais-le clipper ; Whop Content Rewards est fait pour ça.",
+       94
+      ],
+      [
+       "ok",
+       "Tier S : créateurs sur comptes dédiés",
+       "Des créateurs ouvrent des comptes dédiés à la marque et appliquent ta strat de contenu. Clipping + créateurs = 50 à 80 % de son acquisition, et jusqu'à 300 à 400 k€/mois, selon lui. Ce qui les retient, c'est la viralité, pas la rémunération.",
+       "Après le premier format gagnant, recrute 3 à 5 créateurs face caméra qui tiennent chacun un compte « Rushly » avec tes scripts.",
+       188
+      ],
+      [
+       "ok",
+       "Tier A : affiliation",
+       "Payé 100 % à la perf, % à vie ou gros % le 1er mois. Des SaaS de potes scalent à 60 % grâce à l'affiliation ; un petit fixe à 3 chiffres + % a rapporté 15 000 € par vidéo YouTube, selon lui. Donne aux affiliés un dashboard stylé (clics, revenus).",
+       "Les 25 % à vie de Rushly : cible les youtubeurs FR qui font des tutos montage/création de contenu, avec un dashboard affilié propre dès le lancement.",
+       524
+      ],
+      [
+       "warn",
+       "Tier A/B : influenceurs",
+       "Audience chaude et leads de qualité, mais chers car très demandés ; seulement si tu connais ton RPM, ta LTV et ton ARPU par niche.",
+       "Attends d'avoir le RPM Rushly pour payer un fixe à un influenceur « créateur de contenu / business ».",
+       284
+      ],
+      [
+       "warn",
+       "Tier A : contenu automatisé par l'IA",
+       "Produire et poster en masse des vidéos IA / UGC, mais uniquement sur des formats déjà prouvés viraux, jamais pour tester.",
+       "Plus tard : générer des variantes de vidéos démo Rushly à partir des formats gagnants du compte de marque.",
+       618
+      ],
+      [
+       "bad",
+       "Ads au niveau des influenceurs",
+       "Trafic instantané mais coûteux ; jamais au lancement car ça écrase la marge. Plus facile et moins cher de devenir fort en organique.",
+       "Pas d'ads Rushly avant d'avoir un angle organique validé.",
+       427
+      ],
+      [
+       "warn",
+       "Tier C : cold email, webinaire, SEO",
+       "Cold email : complexe, pas de viralité. Webinaire : conversion max mais friction. SEO : lent, mais à lancer dès le début car il compose et pèse dans la valo.",
+       "SEO Rushly à poser tôt en tâche de fond (« sous-titres automatiques », « monter une vidéo face caméra ») sans en attendre de cash au lancement.",
+       761
+      ],
+      [
+       "ok",
+       "Ordre de lancement",
+       "Lancement : clipping, créateurs, affiliation. Le reste plus tard.",
+       "Pour Rushly : compte de marque, puis créateurs via Whop et affiliation 25 %.",
+       808
+      ]
+     ]
+    },
+    {
+     "titre": "J'ai encore fait 1 M€ avec un SaaS",
+     "duree": "15 min",
+     "id": "Yfov2rLbT5o",
+     "verdict": "warn",
+     "key": "C'est le clipping et les créateurs en masse qui ont cassé le plafond de 60 k€ de MRR de Remakeit.",
+     "points": [
+      [
+       "ok",
+       "Courbe de Remakeit",
+       "5 k€ le 1er mois, 20 k, 40 k, 60 k, puis bloqué à 60 k€ de MRR pendant 4 à 5 mois, selon lui.",
+       "Repère réaliste : ton compte de marque peut porter Rushly jusqu'à un plafond ; prévois le relais UGC avant de le toucher.",
+       94
+      ],
+      [
+       "ok",
+       "Le clipping a débloqué le plafond",
+       "La stratégie de clipping et de créateurs en masse les a fait passer de 60 k à 200 k€ de MRR, selon lui.",
+       "Prépare dès maintenant la campagne Whop Content Rewards pour la lancer dès que le format gagnant est trouvé.",
+       94
+      ],
+      [
+       "warn",
+       "Le trafic ne passe pas par le lien en bio",
+       "Selon lui, le trafic de ses vidéos arrive sur Remakeit sans jamais cliquer le lien en bio (recherche directe du nom).",
+       "Rends « Rushly » facile à taper et à trouver : nom visible à l'écran, SEO sur la marque, handle identique partout.",
+       572
+      ]
+     ]
+    },
+    {
+     "titre": "Personne ne veut de ton SaaS (voilà pourquoi)",
+     "duree": "8 min",
+     "id": "k4bTkNe2PDo",
+     "verdict": "ok",
+     "key": "Le problème n'est pas le produit mais ce que tu en montres : hook = sujet + résultat sans nommer Rushly, montre le moment où la vidéo montée sort, et fais durer le process avant de révéler l'outil.",
+     "points": [
+      [
+       "ok",
+       "L'outil est le moyen, pas le sujet",
+       "« J'ai trouvé un outil qui… » ne fait ni vues ni ventes en organique ; moins ça ressemble à de la vente, plus ça vend, et c'est pire en France selon lui.",
+       "Sujet « comment poster tous les jours sans passer tes soirées sur CapCut », Rushly glissé dans le process.",
+       47
+      ],
+      [
+       "ok",
+       "Hook = sujet + résultat, sans l'outil",
+       "Promets le bénéfice ultime (argent, temps, facilité), pas la fonction. Ex : « j'ai booké une semaine à Rome pour 500 € ».",
+       "« J'ai monté 30 Reels ce mois-ci en 0 minute de montage » ou « J'ai filmé ça dans ma cuisine, voilà le résultat en 2 min ».",
+       142
+      ],
+      [
+       "ok",
+       "Montre le aha moment, pas les features",
+       "Le viewer a 10 secondes ; montre le résultat payant qu'il n'aura pas sans payer, pas les features dont tu es fier.",
+       "À l'écran : rush brut moche puis vidéo finale avec sous-titres animés et zooms côte à côte, pas le menu des styles.",
+       237
+      ],
+      [
+       "ok",
+       "Paywall juste avant le résultat",
+       "L'onboarding doit mener vers ce résultat et mettre le paywall juste avant qu'il apparaisse. La vidéo ne vend pas, elle fait quitter TikTok ; c'est le flow qui vend.",
+       "Laisse l'utilisateur déposer son rush et lancer le montage, et place le paywall Solo 17 € au moment d'afficher la vidéo montée (aperçu flouté ou filigrané).",
+       285
+      ],
+      [
+       "ok",
+       "Révèle l'outil petit à petit",
+       "Pattern Lovable, Base44 : un process en étapes, l'outil arrive tard ; l'envie se construit et la valeur perçue monte.",
+       "Script : « Étape 1 je filme 3 min au téléphone, étape 2 j'écris mon hook, étape 3… » et Rushly n'apparaît qu'à l'étape du montage.",
+       334
+      ],
+      [
+       "ok",
+       "Ce n'est pas le prix, c'est la valeur perçue",
+       "Même gratuit, un SaaS mal montré ne trouve pas preneur selon lui.",
+       "Ne baisse pas les prix de Rushly pour compenser un manque de traction : retravaille d'abord hook et démo.",
+       431
+      ]
+     ]
+    },
+    {
+     "titre": "La façon la plus simple de dominer ton marché",
+     "duree": "10 min",
+     "id": "vzgBHo5D0lo",
+     "verdict": "ok",
+     "key": "Audience large, produit centré sur une seule étape (le montage), et la conversion mesurée à chaque étape du funnel.",
+     "points": [
+      [
+       "ok",
+       "Audience large, produit niché",
+       "La niche, c'est le périmètre du produit, pas l'audience : cible tous les ICP et laisse la data dire lequel convertit.",
+       "Ne te limite pas aux coachs : vise tous les créateurs face caméra (formateurs, artisans, agents immo, freelances) et mesure quel profil convertit sur quel contenu.",
+       46
+      ],
+      [
+       "ok",
+       "Une seule étape du parcours",
+       "Choisis une étape du parcours client où il n'y a pas de leader (ex : iClosed sur les calls de closing).",
+       "Positionne Rushly sur « du rush à la vidéo publiable », pas sur l'idéation ni le tournage ; c'est l'étape que les créateurs détestent.",
+       140
+      ],
+      [
+       "ok",
+       "Repère : 10 à 50 k€ le 1er mois",
+       "Selon lui, un SaaS qui marche fait 10 à 50 k€ dès le premier mois une fois la proof of concept trouvée.",
+       "Mesure-toi au premier mois post-lancement (novembre/décembre 2026) ; sous 10 k€ de MRR, revois l'angle avant d'ajouter du budget.",
+       235
+      ],
+      [
+       "ok",
+       "Data à chaque étape du funnel",
+       "Sur 10 000 visiteurs : combien convertissent, où ça décroche, taux de conversion du paywall, LTV, panier moyen.",
+       "Instrumente le funnel Rushly : landing, inscription, premier rush déposé, première vidéo montée, paywall, paiement.",
+       330
+      ],
+      [
+       "warn",
+       "Rendre le produit à la mode",
+       "Exemple Whoop (widgets de revenus partagés en story) et Claude (un seul marketeux, selon lui) : un produit que les gens ont envie de montrer.",
+       "Un format avant/après que les créateurs ont envie de partager.",
+       424
+      ],
+      [
+       "ok",
+       "Le marché n'est jamais saturé",
+       "Beaucoup de SaaS sont créés grâce à l'IA mais peu savent distribuer ; la place revient aux bons en acquisition.",
+       "Des outils de montage IA existent déjà : c'est la preuve du marché. Gagne sur la distribution FR.",
+       518
+      ]
+     ]
+    },
+    {
+     "titre": "7 habitudes qui ont fait passer mes SaaS à plus de 100 k€ par mois",
+     "duree": "11 min",
+     "id": "wXG4hk_Jjgs",
+     "verdict": "ok",
+     "key": "Teste beaucoup de formats au début, puis recycle le gagnant à fond en ne changeant que le hook, et ne juge rien avant 5 vidéos qui percent ou 5 à 10 jours de contenu.",
+     "points": [
+      [
+       "ok",
+       "Recycle le format gagnant, varie le hook",
+       "Créativité concentrée sur l'angle, le hook et le titre ; une vidéo au-dessus de la moyenne est déclinée en hooks, traduite par IA, postée sur d'autres comptes. 1 M de vues transformé en 20 à 25 M selon lui. Garde 10 à 15 % de tests.",
+       "Dès qu'une vidéo Rushly dépasse la moyenne du compte, garde le corps et sors 5 hooks différents ; 1 test sur 8 vidéos.",
+       331
+      ],
+      [
+       "ok",
+       "Banque de 100 formats",
+       "80 à 90 % de leurs formats viennent des US ou d'autres niches (ex : un hook copié d'un garage Toyota de Houston). Outils type Sandcastle.",
+       "Constitue une banque de 100 formats (SaaS US de montage, coachs, garages, restos) et adapte-les à Rushly en FR.",
+       378
+      ],
+      [
+       "ok",
+       "Lire les commentaires des vidéos qui percent",
+       "Les questions en commentaire donnent les prochains angles (TikTok monétisation, puis « et sur YouTube ? »).",
+       "Chaque semaine, extrais les questions des commentaires des vidéos Rushly qui percent (« ça marche pour YouTube Shorts ? ») et fais-en des vidéos.",
+       473
+      ],
+      [
+       "ok",
+       "Ne juge pas avant 5 vidéos qui percent",
+       "Minimum 5 à 10 jours et 5 vidéos à plus de 100 à 200 k vues avant de conclure si un produit, format ou canal convertit.",
+       "Ne tue aucun format ni canal Rushly (compte de marque, campagne Whop) avant 10 jours et 5 vidéos à plus de 100 k vues.",
+       520
+      ],
+      [
+       "ok",
+       "Moins de 20 % du temps sur le produit",
+       "Décisions produit uniquement pour réduire la friction, améliorer conversion ou rétention, toujours appuyées par la data. L'edge est l'acquisition.",
+       "Après la sortie, gèle les nouveaux styles et features : le temps libéré va au contenu du compte de marque.",
+       236
+      ],
+      [
+       "warn",
+       "Dashboard 2 à 3 fois par semaine",
+       "Suivre RPM, vues totales, MRR, mais pas tous les jours, sauf en période de momentum.",
+       "Point Rushly le mardi et le vendredi : vues totales, RPM, essais, conversions paywall.",
+       46
+      ]
+     ]
+    },
+    {
+     "titre": "Comment j'ai monté mon SaaS à 800 k€ d'ARR en 5 mois (Remakeit)",
+     "duree": "14 min",
+     "id": "RWUduvp6i_c",
+     "verdict": "warn",
+     "key": "Vends d'abord à une communauté chaude, et suis le % de rushs qui sortent en vidéo publiable.",
+     "points": [
+      [
+       "ok",
+       "Premiers clients via une audience existante",
+       "MVP « dégueu » (un lien, un bouton), message aux élèves de sa formation sur la viralité : 2 ou 3 achats immédiats, 5 k€ de MRR en quelques semaines, selon lui.",
+       "Avant la sortie, vends un accès anticipé à une communauté de créateurs FR (Discord, Skool, groupe de formation montage) pour les premiers payants et témoignages.",
+       285
+      ],
+      [
+       "ok",
+       "Mesurer le taux d'échec des vidéos",
+       "Au début, 30 à 40 % des vidéos demandées n'aboutissaient pas ; ils suivent cette courbe en continu.",
+       "Suis le % de rushs déposés qui sortent en vidéo publiable : c'est ta métrique d'activation n°1, avant le paywall.",
+       238
+      ],
+      [
+       "ok",
+       "Feedback appelé un par un",
+       "Il appelait chaque utilisateur, notait nom et feedback dans un carnet, puis une base Notion pilotait la roadmap.",
+       "Appelle les 50 premiers payants Rushly ; note style préféré, frein, raison de churn.",
+       380
+      ],
+      [
+       "ok",
+       "Le fondateur utilise son outil pour gagner de l'argent",
+       "Il postait des vidéos Remakeit sur ses propres comptes monétisés (10 à 15 € pour 20 à 300 k vues selon lui) : preuve vivante.",
+       "Le compte Rushly doit être monté à 100 % avec Rushly et le dire : chaque vidéo de marque est une démo.",
+       428
+      ],
+      [
+       "ok",
+       "Créateurs qui promeuvent l'outil avec l'outil",
+       "Des influenceurs payés utilisent Remakeit pour créer les vidéos qui promeuvent Remakeit : cercle vertueux.",
+       "Les vidéos des créateurs Whop sont montées avec Rushly : chaque vidéo devient une démo.",
+       475
+      ],
+      [
+       "warn",
+       "Croissance de 10 à 20 % par mois",
+       "800 k€ d'ARR, plus de 350 000 utilisateurs, environ 100 petites mises à jour par mois, selon lui. Remakeit vise les créateurs qui monétisent, plus facile à vendre qu'un outil de montage.",
+       "Benchmark de croissance ; adapte l'argument : chez Rushly, le gain est le temps et la régularité de publication plutôt que la monétisation directe.",
+       665
+      ]
+     ]
+    },
+    {
+     "titre": "3 M€ avec des SaaS : on explique tout (interview Léo et Samuel)",
+     "duree": "67 min",
+     "id": "rAu4G4mGtNA",
+     "verdict": "warn",
+     "key": "Un CTA « deviens clipper » dans une vidéo virale a ramené 600 candidats, et une démo gratuite montre l'outil avant de payer.",
+     "points": [
+      [
+       "ok",
+       "CTA de recrutement dans une vidéo virale",
+       "Une vidéo Coupe du monde sur le clipping a percé avec un CTA pour devenir clipper : 600 candidatures d'un coup, selon lui.",
+       "Dans la vidéo de marque Rushly qui perce, ajoute « tu veux être payé pour poster des vidéos Rushly ? lien Whop en bio ».",
+       1950
+      ],
+      [
+       "ok",
+       "Payer mieux que la monétisation TikTok",
+       "Les clippers gagnent plus en promouvant Remakeit qu'avec un compte monétisé, sans les 10 000 abonnés ; une vidéo se tourne en 40 s.",
+       "Argument de recrutement Whop : « gagne plus qu'avec le fonds créateurs, sans minimum d'abonnés » auprès d'étudiants et petits créateurs FR.",
+       2472
+      ],
+      [
+       "ok",
+       "Démo gratuite sur contenu préchargé",
+       "Ils ont ajouté des vidéos gratuites (foot, World Cup) pour que même un non-payant voie la puissance de l'outil ; beaucoup reprennent la vidéo montrée dans le post d'acquisition.",
+       "Propose 3 rushs exemples préchargés dans Rushly, dont celui de la vidéo virale du moment, montables gratuitement avant le paywall.",
+       2660
+      ],
+      [
+       "ok",
+       "Moins d'options, pas d'innovation incomprise",
+       "Le prompt to video in-house n'a presque pas été utilisé : l'utilisateur ne comprend pas une innovation qu'il ne connaît pas. Les gens ne veulent pas d'options.",
+       "Onboarding Rushly : un style recommandé par défaut, les autres styles en option avancée.",
+       2613
+      ],
+      [
+       "ok",
+       "80 % sur ce qui marche, 20 % en test",
+       "Un test qui gagne passe dans les 80 % ; un canal du 80 % qui faiblit est remplacé.",
+       "Budget temps Rushly : 80 % sur le format gagnant du compte de marque, 20 % sur un nouveau format ou canal.",
+       1759
+      ],
+      [
+       "ok",
+       "Data quasi temps réel pour répliquer vite",
+       "Quand un créateur perce la nuit, il veut savoir dès le matin si le format a un bon RPM pour le faire reproduire par tous les créateurs.",
+       "Mets un tracking par créateur (lien ou code) pour voir en 12 h si une vidéo convertit, puis brief tous les UGC le jour même.",
+       2045
+      ],
+      [
+       "warn",
+       "Traduire ses vidéos pour d'autres pays",
+       "Au 2e mois, un étudiant traduisait ses TikTok à l'IA et les postait sur un compte en Espagne.",
+       "Plus tard : décliner les vidéos de marque Rushly en Belgique, Suisse, Québec, puis en d'autres langues si Rushly s'ouvre.",
+       2332
+      ],
+      [
+       "warn",
+       "Produit moche mais infra solide",
+       "Lancer vite et « dégueu », mais l'infra doit encaisser le trafic : VisiFoot codé en 3 jours a bugué au 1er jour (3 000 inscrits), et la hype est retombée.",
+       "Avant la sortie du 10/11, teste la charge (100 rushs en parallèle) et le paiement : un bug au lancement tue l'effet de la première vidéo virale.",
+       423
+      ]
+     ]
+    },
+    {
+     "titre": "L'art de voler du contenu pour gagner de l'argent",
+     "duree": "10 min",
+     "id": "PN5v0cRY_Dk",
+     "verdict": "warn",
+     "key": "Copie un concept qui marche en le battant sur 2 ou 3 points, décortique les 10 meilleurs scripts, 1 vidéo par jour pendant 30 jours.",
+     "points": [
+      [
+       "ok",
+       "Copier ce qui marche et le battre sur 2 ou 3 points",
+       "Ne reproduis pas tel quel : sois meilleur sur la qualité, les animations ou la durée, sinon ne te lance pas.",
+       "Reprends les formats qui marchent chez des créateurs face cam, avec un plus visible : rush vraiment brut, résultat en 2 min.",
+       47
+      ],
+      [
+       "ok",
+       "Décortiquer les 10 meilleurs scripts concurrents",
+       "Télécharger les scripts des 10 vidéos qui ont le mieux marché : hooks, structure, mots récurrents, transitions, durée moyenne.",
+       "Transcris les 10 meilleures vidéos de créateurs face cam FR et US, et fais-en une fiche de patterns pour les scripts Rushly.",
+       187
+      ],
+      [
+       "ok",
+       "1 vidéo par jour au démarrage",
+       "3 à 4 semaines à 1 vidéo/jour : plusieurs vidéos/jour sur un compte neuf passe pour du spam. En cas de blocage à 0 vue, pause de 1 à 2 jours.",
+       "Compte TikTok Rushly : 1 vidéo/jour les 4 premières semaines, pas plus, même si une vidéo perce.",
+       329
+      ],
+      [
+       "ok",
+       "Tenir 30 jours avant de juger",
+       "Un compte peut décoller d'un coup (une vidéo à 1 M, puis 300 à 600 k vues de façon régulière, selon lui).",
+       "Engage-toi sur 30 vidéos du compte de marque avant de conclure quoi que ce soit.",
+       423
+      ],
+      [
+       "warn",
+       "Multiplier les comptes seulement une fois délégable",
+       "Ouvrir d'autres comptes quand le premier rapporte de façon stable depuis plusieurs mois et que la création est déléguée.",
+       "Ouvre un 2e compte de marque (Instagram dédié ou compte par niche, ex : coachs) seulement quand le premier tourne sans toi.",
+       470
+      ]
+     ]
+    },
+    {
+     "titre": "J'ai monétisé un compte TikTok en 20 jours pour prouver que ce n'est pas de la chance",
+     "duree": "8 min",
+     "id": "fWIbNYyk_KE",
+     "verdict": "warn",
+     "key": "Le défi documenté place l'outil naturellement dans le process. Une seule niche par compte.",
+     "points": [
+      [
+       "ok",
+       "Le défi documenté comme format",
+       "Objectif chiffré + enjeu (« si j'échoue je donne 500 € ») + suivi jour par jour ; Remakeit apparaît comme l'outil utilisé, jamais comme le sujet.",
+       "Série « Je lance un compte TikTok face caméra de zéro et je poste 30 jours sans monter une seule vidéo », chaque épisode monté avec Rushly.",
+       0
+      ],
+      [
+       "ok",
+       "Seuils de rétention pour prédire un flop",
+       "Temps de visionnage moyen au-delà de 20 s et taux d'achèvement d'au moins 15 % ; à 12 s et 6 %, la vidéo ne décollera pas, selon lui.",
+       "Sous 15 % d'achèvement à 24 h, retravaille le hook.",
+       237
+      ],
+      [
+       "ok",
+       "Une seule niche par compte",
+       "Une vidéo hors niche (même un ancien hit à 13 M de vues) a fait 40 000 vues et cassé la dynamique du compte.",
+       "Compte Rushly : une seule thématique (créateurs face caméra et productivité contenu) ; pas de vidéos lifestyle ou fondateur sur ce compte.",
+       286
+      ],
+      [
+       "ok",
+       "Une vidéo qui perce relance tout le compte",
+       "Bloqué à 2 000 abonnés, une vidéo à 1,7 M a fait remonter d'anciennes vidéos de 10 k à 500 k vues, puis +1 000 abonnés/jour.",
+       "Ne supprime pas les vidéos Rushly qui ont fait peu de vues : elles peuvent repartir quand une vidéo perce.",
+       334
+      ],
+      [
+       "bad",
+       "Recycler du contenu YouTube pour la monétisation TikTok",
+       "Repost de vidéos YouTube avec voix IA, sous-titres et musique pour passer comme contenu original ; RPM TikTok à environ 1 € pour 1000 vues selon lui.",
+       "Hors cible : Rushly vise des créateurs qui filment leurs propres rushs, pas le repost.",
+       48
+      ]
+     ]
+    }
+   ],
+   "synthese": [
+    {
+     "theme": "Piloter l'acquisition",
+     "idees": [
+      [
+       "ok",
+       "Le RPM est la seule métrique",
+       "Cash encaissé ÷ vues × 1 000. Un SaaS sain fait 2 à 5 € dès le jour 1. 1 M de vues ≈ 5 k€ de MRR en moyenne, selon lui.",
+       "Calculer le RPM du compte Rushly.",
+       [
+        [
+         "XEq7F-QLslA",
+         190
+        ],
+        [
+         "dBoDDcCpZ_8",
+         46
+        ],
+        [
+         "LHrGMzokzvk",
+         321
+        ],
+        [
+         "rsagc4FzbGs",
+         1060
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Percer seul avant de recruter",
+       "Pas de créateurs tant que ton propre compte n'a pas rapporté 3 à 5 k€. Il faut 500 000 à 1 M de vues pour un RPM fiable.",
+       "Compte Rushly d'abord, créateurs ensuite.",
+       [
+        [
+         "XEq7F-QLslA",
+         478
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Mesurer chaque étape du funnel",
+       "Combien convertissent, où ça décroche, conversion du paywall. Remakeit suit aussi le % de vidéos générées qui ratent.",
+       "Suivre le % de rushs qui sortent en vidéo publiable.",
+       [
+        [
+         "vzgBHo5D0lo",
+         330
+        ],
+        [
+         "RWUduvp6i_c",
+         238
+        ],
+        [
+         "rAu4G4mGtNA",
+         2045
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Ne rien juger trop tôt",
+       "Minimum 5 à 10 jours et 5 vidéos qui percent avant de conclure. Tenir 30 jours : un compte peut décoller d'un coup.",
+       "30 vidéos avant de juger le compte Rushly.",
+       [
+        [
+         "wXG4hk_Jjgs",
+         520
+        ],
+        [
+         "PN5v0cRY_Dk",
+         423
+        ],
+        [
+         "dBoDDcCpZ_8",
+         46
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Le trafic d'abord",
+       "Sans trafic, pas de taux de conversion ni de test A/B. C'est le trafic qui dit quoi réparer, avant de toucher au produit.",
+       "",
+       [
+        [
+         "rsagc4FzbGs",
+         1280
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Les gains se multiplient",
+       "x2 sur le parcours et x2 sur le paywall = x4 avec le même trafic.",
+       "",
+       [
+        [
+         "rsagc4FzbGs",
+         620
+        ],
+        [
+         "rsagc4FzbGs",
+         1500
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ]
+     ]
+    },
+    {
+     "theme": "Faire le contenu",
+     "idees": [
+      [
+       "ok",
+       "Le SaaS est le moyen, jamais le sujet",
+       "Une vidéo qui parle de l'app ne fait ni vues ni ventes. Plus ça ressemble à de la vente, moins ça vend, surtout en France.",
+       "Parler de « poster sans monter », Rushly arrive dans le process.",
+       [
+        [
+         "dBoDDcCpZ_8",
+         237
+        ],
+        [
+         "k4bTkNe2PDo",
+         47
+        ],
+        [
+         "LHrGMzokzvk",
+         276
+        ],
+        [
+         "rsagc4FzbGs",
+         1380
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Le hook fait 60 % de la viralité",
+       "Rétention 30 %, montage 10 %. Le hook promet un résultat (sujet + résultat) sans nommer l'outil.",
+       "",
+       [
+        [
+         "dBoDDcCpZ_8",
+         0
+        ],
+        [
+         "k4bTkNe2PDo",
+         142
+        ],
+        [
+         "LHrGMzokzvk",
+         1137
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Garder le format, changer le hook",
+       "On n'innove pas sur le format. Une vidéo qui marche est déclinée en hooks. 80 % sur ce qui marche, 10 à 20 % de tests.",
+       "Dès qu'une vidéo perce : 5 hooks différents sur le même corps.",
+       [
+        [
+         "dBoDDcCpZ_8",
+         0
+        ],
+        [
+         "wXG4hk_Jjgs",
+         331
+        ],
+        [
+         "rAu4G4mGtNA",
+         1759
+        ],
+        [
+         "LHrGMzokzvk",
+         1092
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Montrer le résultat, paywall juste avant",
+       "Le viewer a 10 secondes : montre le résultat, pas les fonctions. Le paywall arrive juste avant ce résultat. La vidéo ne vend pas, c'est le parcours qui vend.",
+       "Montrer le rush brut puis la vidéo montée.",
+       [
+        [
+         "k4bTkNe2PDo",
+         237
+        ],
+        [
+         "k4bTkNe2PDo",
+         285
+        ],
+        [
+         "rAu4G4mGtNA",
+         2660
+        ],
+        [
+         "LHrGMzokzvk",
+         1002
+        ],
+        [
+         "rsagc4FzbGs",
+         1360
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Révéler l'outil petit à petit",
+       "Un process en étapes, l'outil arrive tard : l'envie monte.",
+       "Rushly n'apparaît qu'à l'étape du montage.",
+       [
+        [
+         "k4bTkNe2PDo",
+         334
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Un rush viral, 10 montages",
+       "Un rush qui a percé, remonté par 10 personnes, donne 10 vidéos virales. Jamais de repost à l'identique.",
+       "C'est le produit : le même rush monté en 5 styles.",
+       [
+        [
+         "XEq7F-QLslA",
+         668
+        ],
+        [
+         "XEq7F-QLslA",
+         622
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "4 formats qui marchent",
+       "Le flow du logiciel filmé au téléphone, le duo, le talking head (convertit le mieux), le green screen sur l'actu.",
+       "",
+       [
+        [
+         "dBoDDcCpZ_8",
+         284
+        ],
+        [
+         "dBoDDcCpZ_8",
+         332
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "3 règles d'exécution",
+       "Filmer l'écran avec un autre appareil, produit visible avant 20 s, nom du produit jamais dans le texte, le titre ou la description.",
+       "",
+       [
+        [
+         "dBoDDcCpZ_8",
+         380
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Sourcer les formats ailleurs",
+       "80 à 90 % de leurs formats viennent des US ou d'autres niches. Se faire une banque de 100 formats.",
+       "Banque de formats de créateurs face cam US et FR.",
+       [
+        [
+         "dBoDDcCpZ_8",
+         141
+        ],
+        [
+         "wXG4hk_Jjgs",
+         378
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Copier et faire mieux",
+       "Reprendre un concept qui marche en le battant sur 2 ou 3 points. Décortiquer les 10 meilleurs scripts.",
+       "",
+       [
+        [
+         "PN5v0cRY_Dk",
+         47
+        ],
+        [
+         "PN5v0cRY_Dk",
+         187
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "1 vidéo par jour au démarrage",
+       "Plusieurs vidéos par jour sur un compte neuf passent pour du spam.",
+       "",
+       [
+        [
+         "PN5v0cRY_Dk",
+         329
+        ],
+        [
+         "dBoDDcCpZ_8",
+         46
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Une seule niche par compte",
+       "Une vidéo hors niche casse la dynamique. Une vidéo qui perce relance les anciennes.",
+       "",
+       [
+        [
+         "fWIbNYyk_KE",
+         286
+        ],
+        [
+         "fWIbNYyk_KE",
+         334
+        ],
+        [
+         "LHrGMzokzvk",
+         321
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Seuils de rétention",
+       "Plus de 20 s de visionnage moyen et au moins 15 % d'achèvement, sinon la vidéo ne décolle pas, selon lui.",
+       "Sous 15 % d'achèvement à 24 h, retravailler le hook.",
+       [
+        [
+         "fWIbNYyk_KE",
+         237
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Lire les commentaires des vidéos qui percent",
+       "Les questions posées donnent les prochains angles.",
+       "",
+       [
+        [
+         "wXG4hk_Jjgs",
+         473
+        ],
+        [
+         "LHrGMzokzvk",
+         457
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Le défi documenté",
+       "Un objectif chiffré suivi jour par jour, l'outil apparaît comme ce qu'on utilise.",
+       "",
+       [
+        [
+         "fWIbNYyk_KE",
+         0
+        ],
+        [
+         "LHrGMzokzvk",
+         685
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Un mécanisme viral à l'écran",
+       "Un truc qui se comprend en une seconde à l'écran : un scan qui affiche le prix, un téléphone qui fait le meneur, un compteur de jours. Le format doit être très visuel.",
+       "Trouver le moment visuel de Rushly qui se comprend sans explication.",
+       [
+        [
+         "LHrGMzokzvk",
+         867
+        ],
+        [
+         "LHrGMzokzvk",
+         1137
+        ]
+       ],
+       {
+        "ajoute": "02/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Des vues sans commentaires sur l'outil = pas de ventes",
+       "Si les commentaires ne parlent pas du SaaS, la vidéo fait des vues mais ne convertit pas.",
+       "Vérifier que les commentaires des vidéos Rushly parlent de Rushly.",
+       [
+        [
+         "rsagc4FzbGs",
+         980
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Les listes à part égale ne vendent pas",
+       "Le carrousel « 5 apps que j'utilise » convertit le moins : l'outil le moins connu passe inaperçu. Si carrousel, ta slide doit être la plus forte.",
+       "Pas de carrousel « 5 outils » où Rushly est noyé.",
+       [
+        [
+         "rsagc4FzbGs",
+         1000
+        ],
+        [
+         "rsagc4FzbGs",
+         1160
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ]
+     ]
+    },
+    {
+     "theme": "Les canaux",
+     "idees": [
+      [
+       "ok",
+       "Au lancement : clipping, créateurs, affiliation",
+       "Clipping et créateurs sur comptes dédiés en tier S (50 à 80 % de son acquisition), affiliation en tier A. Influenceurs plus tard. Cold email, webinaire, SEO en C.",
+       "",
+       [
+        [
+         "yYMwsA7HBHQ",
+         94
+        ],
+        [
+         "yYMwsA7HBHQ",
+         188
+        ],
+        [
+         "yYMwsA7HBHQ",
+         524
+        ],
+        [
+         "yYMwsA7HBHQ",
+         808
+        ],
+        [
+         "LHrGMzokzvk",
+         276
+        ],
+        [
+         "rsagc4FzbGs",
+         1400
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Payer à la performance",
+       "90 % de leur acquisition. Paiement à la vue, par palier ou en affiliation, avec un CPM sous le RPM.",
+       "Barème Whop calé sur le RPM mesuré.",
+       [
+        [
+         "XEq7F-QLslA",
+         238
+        ],
+        [
+         "dBoDDcCpZ_8",
+         569
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Pas d'ads avant 50 à 100 k€ de MRR",
+       "Et jamais plus de 5 % de l'acquisition.",
+       "",
+       [
+        [
+         "XEq7F-QLslA",
+         96
+        ],
+        [
+         "dBoDDcCpZ_8",
+         569
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Le clipping a cassé le plafond",
+       "Remakeit bloqué à 60 k€ de MRR pendant 4 à 5 mois, puis 200 k€ avec le clipping et les créateurs en masse, selon lui.",
+       "Préparer le relais créateurs avant le plafond du compte Rushly.",
+       [
+        [
+         "Yfov2rLbT5o",
+         94
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Des créateurs qui ressemblent à la cible",
+       "Plus de créateurs plutôt que plus de budget. Des créateurs hors cible donnent un mauvais RPM.",
+       "Recruter des créateurs face cam qui ne montent pas.",
+       [
+        [
+         "XEq7F-QLslA",
+         96
+        ],
+        [
+         "XEq7F-QLslA",
+         334
+        ],
+        [
+         "LHrGMzokzvk",
+         366
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Recruter dans une vidéo qui perce",
+       "Un appel « deviens clipper » dans une vidéo virale a ramené 600 candidats. Ils gagnent plus qu'avec la monétisation TikTok.",
+       "Même appel dans la vidéo Rushly qui perce.",
+       [
+        [
+         "rAu4G4mGtNA",
+         1950
+        ],
+        [
+         "rAu4G4mGtNA",
+         2472
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "L'outil se promeut avec l'outil",
+       "Les créateurs utilisent Remakeit pour faire les vidéos qui promeuvent Remakeit.",
+       "Les vidéos des créateurs sont montées avec Rushly.",
+       [
+        [
+         "RWUduvp6i_c",
+         428
+        ],
+        [
+         "RWUduvp6i_c",
+         475
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Les gens cherchent le nom",
+       "Le trafic arrive sur Remakeit sans passer par le lien en bio, selon lui.",
+       "« Rushly » facile à taper et à trouver.",
+       [
+        [
+         "Yfov2rLbT5o",
+         572
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Affiliation : dashboard soigné",
+       "Gros pourcentage sur le 1er mois ou à vie, et un dashboard stylé pour les affiliés.",
+       "",
+       [
+        [
+         "yYMwsA7HBHQ",
+         524
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Comptes dédiés : les vues, pas les followers",
+       "Les créateurs postent sur un compte dédié à la niche, pas sur leur compte perso. Un compte à 2 000 followers suffit, seules les vues comptent.",
+       "Argument pour recruter des créateurs sans toucher à leur compte perso.",
+       [
+        [
+         "LHrGMzokzvk",
+         276
+        ]
+       ],
+       {
+        "ajoute": "02/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Garder les créateurs actifs",
+       "Recrutement, onboarding, management et rétention. Ils utilisent revclip.io : notifications pour poster et à chaque gain, ça rend les créateurs accros.",
+       "Pour la phase créateurs.",
+       [
+        [
+         "LHrGMzokzvk",
+         366
+        ]
+       ],
+       {
+        "ajoute": "02/11/2026"
+       }
+      ],
+      [
+       "warn",
+       "Récompenser les utilisateurs qui postent",
+       "Des points selon les vues de leurs vidéos, échangeables contre des lots. Concours dans la communauté.",
+       "À adapter : les utilisateurs Rushly publient déjà depuis l'app.",
+       [
+        [
+         "LHrGMzokzvk",
+         912
+        ]
+       ],
+       {
+        "ajoute": "02/11/2026"
+       }
+      ]
+     ]
+    },
+    {
+     "theme": "Le produit",
+     "idees": [
+      [
+       "ok",
+       "Audience large, produit centré",
+       "Le produit se concentre sur une étape. L'audience reste large, la data dit quel profil convertit.",
+       "Rushly = du rush à la vidéo publiable.",
+       [
+        [
+         "vzgBHo5D0lo",
+         46
+        ],
+        [
+         "vzgBHo5D0lo",
+         140
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Moins d'options",
+       "Les gens ne veulent pas d'options ni d'innovation qu'ils ne comprennent pas.",
+       "Un style recommandé par défaut.",
+       [
+        [
+         "rAu4G4mGtNA",
+         2613
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Premiers clients dans une communauté",
+       "MVP vendu à une audience déjà chaude, puis chaque utilisateur appelé un par un.",
+       "Appeler les premiers payants Rushly.",
+       [
+        [
+         "RWUduvp6i_c",
+         285
+        ],
+        [
+         "RWUduvp6i_c",
+         380
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "L'avantage, c'est la distribution",
+       "Le produit se copie vite. Moins de 20 % du temps sur le produit, le reste sur l'acquisition.",
+       "",
+       [
+        [
+         "vzgBHo5D0lo",
+         518
+        ],
+        [
+         "wXG4hk_Jjgs",
+         236
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Une infra qui tient le jour J",
+       "Un lancement qui bugue tue la hype de la première vidéo virale.",
+       "Tester la charge avant le 10/11.",
+       [
+        [
+         "rAu4G4mGtNA",
+         423
+        ]
+       ]
+      ],
+      [
+       "ok",
+       "Onboarding : plus de 90 % jusqu'au paywall",
+       "Un quiz long et immersif qui donne confiance. Gotall : 91 % des téléchargements voient le paywall.",
+       "Mesurer la part des inscrits Rushly qui arrivent au paywall.",
+       [
+        [
+         "LHrGMzokzvk",
+         502
+        ],
+        [
+         "LHrGMzokzvk",
+         548
+        ]
+       ],
+       {
+        "ajoute": "02/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Une raison de rester, visible dans la vidéo",
+       "On paye pour un suivi, pas pour un chiffre : compteur, plan, portefeuille. Et cette raison doit se voir dans la vidéo.",
+       "Ce qui fait revenir sur Rushly doit apparaître dans les vidéos.",
+       [
+        [
+         "LHrGMzokzvk",
+         230
+        ],
+        [
+         "LHrGMzokzvk",
+         593
+        ],
+        [
+         "LHrGMzokzvk",
+         1408
+        ]
+       ],
+       {
+        "ajoute": "02/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Pousser l'annuel",
+       "Récupérer la LTV dès le jour 1 pour avoir plus de marge en acquisition.",
+       "Rushly a déjà l'annuel (17 € au lieu de 24 €) : le mettre en avant.",
+       [
+        [
+         "LHrGMzokzvk",
+         730
+        ],
+        [
+         "LHrGMzokzvk",
+         1092
+        ],
+        [
+         "rsagc4FzbGs",
+         640
+        ],
+        [
+         "rsagc4FzbGs",
+         800
+        ]
+       ],
+       {
+        "ajoute": "02/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Jamais l'expert qui paye",
+       "C'est celui qui ne sait pas faire et veut le résultat qui paye.",
+       "Viser les créateurs face cam qui ne savent pas monter, pas les monteurs.",
+       [
+        [
+         "rsagc4FzbGs",
+         280
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Premier écran : le résultat, et on essaie",
+       "85 à 90 % ne descendent pas plus bas, selon lui. Le titre dit le résultat, le CTA fait essayer tout de suite.",
+       "Tester : déposer son rush dès le premier écran.",
+       [
+        [
+         "rsagc4FzbGs",
+         200
+        ],
+        [
+         "rsagc4FzbGs",
+         220
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Séparer les frictions",
+       "Inscription, puis questions qui personnalisent, puis paywall. Pas de « où nous as-tu connus ? » avant le paiement.",
+       "",
+       [
+        [
+         "rsagc4FzbGs",
+         360
+        ],
+        [
+         "rsagc4FzbGs",
+         520
+        ],
+        [
+         "rsagc4FzbGs",
+         580
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Un aperçu flouté qui coûte peu",
+       "Trop d'écrans gratuits = tout est déjà donné, et chaque inscrit gratuit coûte une génération IA.",
+       "Chaque montage gratuit coûte : un aperçu partiel avant de payer.",
+       [
+        [
+         "rsagc4FzbGs",
+         400
+        ],
+        [
+         "rsagc4FzbGs",
+         440
+        ],
+        [
+         "rsagc4FzbGs",
+         1300
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ],
+      [
+       "ok",
+       "Option au paiement et offre de sortie",
+       "Une option à cocher au checkout (+25 % de revenus selon lui) et une réduction calée sur l'annuel quand il quitte le paywall.",
+       "",
+       [
+        [
+         "rsagc4FzbGs",
+         700
+        ],
+        [
+         "rsagc4FzbGs",
+         720
+        ],
+        [
+         "rsagc4FzbGs",
+         840
+        ]
+       ],
+       {
+        "ajoute": "09/11/2026"
+       }
+      ]
+     ]
+    }
+   ],
+   "top": [
+    [
+     "Le SaaS est le moyen, jamais le sujet",
+     "Une vidéo qui parle de l'app ne vend pas. On parle d'un sujet, l'outil arrive dans le process."
+    ],
+    [
+     "Le hook fait 60 % de la viralité",
+     "Il promet un résultat, sans nommer l'outil."
+    ],
+    [
+     "Garder le format, changer le hook",
+     "Une vidéo qui marche se décline en hooks. 80 % sur ce qui marche, le reste en tests."
+    ],
+    [
+     "Percer seul avant de recruter",
+     "Pas de créateurs tant que ton compte n'a pas rapporté 3 à 5 k€."
+    ],
+    [
+     "Au lancement : clipping, créateurs, affiliation",
+     "Le reste (influenceurs, ads, SEO) vient plus tard."
+    ],
+    [
+     "Payer à la performance",
+     "Payer les créateurs à la vue, moins que ce qu'une vue te rapporte (RPM)."
+    ],
+    [
+     "Ne rien juger trop tôt",
+     "Au moins 5 vidéos qui percent ou 30 jours avant de conclure."
+    ]
+   ]
+  }
+ ],
+ "roadmap": [
+  {
+   "titre": "Avant la sortie",
+   "items": [
+    [
+     "e1-1",
+     "Veille : lister 10 formats validés chez des créateurs face cam US et FR."
+    ],
+    [
+     "e1-3",
+     "Écrire l'avatar en une phrase : une seule personne, son quotidien, ce qu'elle a l'habitude d'entendre."
+    ],
+    [
+     "e1-4",
+     "Préparer le lead magnet."
+    ]
+   ]
+  },
+  {
+   "titre": "Phase de test",
+   "items": [
+    [
+     "e2-1",
+     "Poster 1 vidéo par jour pendant 10 jours, après 3 jours de chauffe. Chaque vidéo faite le jour même."
+    ],
+    [
+     "e2-2",
+     "Garder 1 ou 2 formats et tester 10 hooks différents dessus."
+    ],
+    [
+     "e2-3",
+     "Montrer Rushly comme l'étape 2 du process dans chaque vidéo, jamais comme une pub."
+    ],
+    [
+     "e2-4",
+     "Écrire chaque hook avec ce que la cible n'a pas l'habitude d'entendre."
+    ],
+    [
+     "e2-5",
+     "Finir chaque vidéo par le mot-clé en commentaire."
+    ],
+    [
+     "e2-6",
+     "Poster 30 vidéos avant de juger. Sous 15 % d'achèvement à 24 h, retravailler le hook."
+    ],
+    [
+     "e2-7",
+     "Avoir au moins 1 vidéo très au-dessus de la moyenne du compte."
+    ],
+    [
+     "e2-8",
+     "Avoir mesuré le RPM."
+    ]
+   ]
+  },
+  {
+   "titre": "Exploiter le winner",
+   "items": [
+    [
+     "e3-1",
+     "Passer à 70 % de vidéos qui refont ce qui a marché, 30 % de tests."
+    ],
+    [
+     "e3-2",
+     "Refaire le winner 25 fois, avec des variantes de hook."
+    ],
+    [
+     "e3-3",
+     "Chaque semaine, chercher de nouvelles variantes des formats gagnants."
+    ],
+    [
+     "e3-4",
+     "Le compte Rushly a rapporté 3 à 5 k€."
+    ]
+   ]
+  },
+  {
+   "titre": "Amplifier avec des créateurs",
+   "items": [
+    [
+     "e4-1",
+     "Recruter des créateurs face cam qui ne montent pas."
+    ],
+    [
+     "e4-2",
+     "Leur donner le format gagnant et les payer à la vue, moins que ce que rapporte une vue (repère : 1 $ les 1 000 vues)."
+    ],
+    [
+     "e4-3",
+     "Lancer le clipping via Whop."
+    ],
+    [
+     "e4-4",
+     "Lancer l'affiliation : 25 % à vie, bonus sur le 1er mois, dashboard soigné."
+    ],
+    [
+     "e4-5",
+     "Dans la vidéo Rushly qui perce, ajouter « tu veux être payé pour poster des vidéos Rushly ? » avec le lien Whop."
+    ]
+   ]
+  },
+  {
+   "titre": "Si la croissance plafonne",
+   "items": [
+    [
+     "e5-1",
+     "Tester les prix, les offres et le moment du paywall sur deux groupes d'utilisateurs."
+    ]
+   ]
+  }
+ ],
+ "avatar": {
+  "phrase": [
+   "Il se filme face caméra pour poster,",
+   "n'a pas le temps de monter",
+   "et ne veut pas payer un monteur."
+  ],
+  "qui": [
+   [
+    "Entrepreneurs",
+    "coachs, consultants, formateurs, freelances"
+   ],
+   [
+    "Commerçants & artisans",
+    "ils font leur propre com"
+   ],
+   [
+    "Créateurs débutants",
+    "veulent poster tous les jours"
+   ],
+   [
+    "Personal brands",
+    "postent beaucoup, en ont marre de monter"
+   ],
+   [
+    "Équipes & agences",
+    "plusieurs marques à gérer"
+   ]
+  ],
+  "veut": [
+   "Une vidéo prête à poster",
+   "Le rendu d'un monteur",
+   "Garder son style, même sobre",
+   "Sa police, ses couleurs, son logo",
+   "Publier sur TikTok, Insta, YouTube"
+  ],
+  "bloque": [
+   "Pas le temps de monter",
+   "N'a jamais appris",
+   "Monteur trop cher pour lui",
+   "Ses soirées y passent",
+   "Apprendre un logiciel"
+  ],
+  "peurs": [
+   "L'effet « vidéo IA »",
+   "Un montage qui ne lui plaît pas",
+   "Payer pour une vidéo ratée",
+   "Un abonnement dur à annuler"
+  ],
+  "filme": [
+   "Face caméra",
+   "Au téléphone ou à l'ordi",
+   "Une prise ou plusieurs",
+   "MP4 ou MOV"
+  ],
+  "poste": [
+   "TikTok",
+   "Instagram",
+   "YouTube"
+  ],
+  "rythme": [
+   [
+    "~12 vidéos / mois",
+    "Il démarre",
+    "Solo"
+   ],
+   [
+    "~30 vidéos / mois",
+    "Il poste tous les jours",
+    "Créateur"
+   ],
+   [
+    "80 à 320 / mois",
+    "Équipe ou agence",
+    "Pro"
+   ]
+  ],
+  "essaye": [
+   "Monter lui-même le soir",
+   "Payer un monteur",
+   "Poster sans montage"
+  ],
+  "paye": [
+   "Voir le rendu sur sa propre vidéo",
+   "Le prix d'un seul montage pour tout le mois",
+   "Vidéo ratée = vidéo recréditée",
+   "Annulation en un clic"
+  ],
+  "objections": [
+   [
+    "Ça fait « vidéo IA » ?",
+    "Le montage suit les règles d'un monteur. Style Sobre pour zéro effet."
+   ],
+   [
+    "Je n'ai jamais monté.",
+    "C'est fait pour ça : tu déposes, tu choisis un style, tu postes."
+   ],
+   [
+    "Et si ça ne me plaît pas ?",
+    "Tu relances ou tu changes de style. Une vidéo ratée est recréditée."
+   ],
+   [
+    "Je pourrai annuler ?",
+    "En un clic, depuis ton compte."
+   ]
+  ],
+  "ou": [
+   "Sur TikTok et Instagram",
+   "Dans les vidéos face cam de sa niche",
+   "Chez les créateurs qui lui ressemblent"
+  ]
+ },
+ "regles": [
+  [
+   "Jamais une vidéo sur Rushly",
+   "Parler d'un sujet que l'avatar connaît : poster sans monter, gagner du temps."
+  ],
+  [
+   "Rushly est une étape du process",
+   "Il apparaît au milieu de la méthode montrée, jamais comme une pub."
+  ],
+  [
+   "Produit visible avant 20 secondes",
+   "On voit l'outil à l'écran, filmé avec un autre appareil."
+  ],
+  [
+   "Le nom hors du texte",
+   "Jamais dans le texte, le titre ou la description. En commentaire épinglé ou à l'écran."
+  ],
+  [
+   "Rien qui sonne vente",
+   "Moins ça ressemble à une pub, plus ça vend."
+  ],
+  [
+   "Lien en bio, nom facile à trouver",
+   "Le lien de la webapp en bio du compte Rushly. Même nom de compte partout, les gens tapent « Rushly » directement."
+  ],
+  [
+   "Une seule thématique",
+   "Que du contenu pour les créateurs face cam, rien d'autre sur le compte."
+  ]
+ ],
+ "courts": {
+  "wQnBj8u15Es": "400 M de vues",
+  "LCPapr3UHic": "Stratégie 2026",
+  "QHknYmt0Zsw": "3 M€ grâce à TikTok",
+  "aKr-s1r0msg": "Formation 5 000 €",
+  "NERMtIf3tss": "Personal brand",
+  "XEq7F-QLslA": "Comprendre l'acquisition",
+  "dBoDDcCpZ_8": "Acquisition simple",
+  "yYMwsA7HBHQ": "Tier list des canaux",
+  "Yfov2rLbT5o": "1 M€ (encore)",
+  "k4bTkNe2PDo": "Personne ne veut de ton SaaS",
+  "vzgBHo5D0lo": "Dominer ton marché",
+  "wXG4hk_Jjgs": "7 habitudes",
+  "RWUduvp6i_c": "Remakeit à 800 k€",
+  "rAu4G4mGtNA": "3 M€ en interview",
+  "PN5v0cRY_Dk": "Voler du contenu",
+  "fWIbNYyk_KE": "TikTok en 20 jours",
+  "LHrGMzokzvk": "5 SaaS débiles",
+  "rsagc4FzbGs": "SaaS de 20 k à 100 k"
+ },
+ "studio": {
+  "regles_hook": [
+   [
+    "Le hook fait 60 % de la viralité",
+    "Rétention 30 %, montage 10 %, selon Léo.",
+    [
+     [
+      "dBoDDcCpZ_8",
+      0
+     ]
+    ]
+   ],
+   [
+    "Sujet + résultat",
+    "Le hook promet un résultat, sans nommer l'outil.",
+    [
+     [
+      "k4bTkNe2PDo",
+      142
+     ]
+    ]
+   ],
+   [
+    "Contre-pied",
+    "Dire ce que la cible n'a pas l'habitude d'entendre, puis le justifier.",
+    [
+     [
+      "LCPapr3UHic",
+      141
+     ],
+     [
+      "NERMtIf3tss",
+      382
+     ]
+    ]
+   ],
+   [
+    "Tension dès la 1re seconde",
+    "La vidéo commence sur une phrase, pas sur une installation.",
+    [
+     [
+      "LHrGMzokzvk",
+      1137
+     ]
+    ]
+   ],
+   [
+    "Le hook visuel compte aussi",
+    "C'est souvent les 5 % qu'on oublie en copiant une vidéo virale.",
+    [
+     [
+      "aKr-s1r0msg",
+      5636
+     ]
+    ]
+   ],
+   [
+    "Garder le format, changer le hook",
+    "Une vidéo qui marche se décline en hooks.",
+    [
+     [
+      "dBoDDcCpZ_8",
+      0
+     ],
+     [
+      "wXG4hk_Jjgs",
+      331
+     ]
+    ]
+   ],
+   [
+    "Hook, 3 points, conclusion",
+    "Le reste en improvisé, sans lire de script.",
+    [
+     [
+      "NERMtIf3tss",
+      1242
+     ]
+    ]
+   ],
+   [
+    "Sous 15 % d'achèvement à 24 h",
+    "Retravailler le hook.",
+    [
+     [
+      "fWIbNYyk_KE",
+      237
+     ]
+    ]
+   ]
+  ],
+  "regles_prompt": [
+   "Le hook promet un résultat (sujet + résultat) sans nommer l'outil.",
+   "Hook à contre-pied : dire ce que la cible n'a pas l'habitude d'entendre, puis le justifier.",
+   "Le hook pose une tension dès la première seconde, pas une installation.",
+   "Structure : hook, 3 points, conclusion. Le créateur improvise le reste, donc pas de longues phrases à lire.",
+   "Le sujet est l'histoire ou le problème, jamais l'outil. Plus ça ressemble à de la vente, moins ça vend.",
+   "Montrer le résultat, pas les fonctions."
+  ]
+ }
+}
